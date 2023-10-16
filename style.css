@@ -1,0 +1,39 @@
+header{
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items:left;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Pacifico', Arial, Helvetica, sans-serif;
+    height: 1000m;
+    text-align: justify;
+    font-size: 50px;
+}
+
+body{ 
+   
+}
+
+
+main{
+    
+}
+
+bebas{
+    
+    
+}
+
+
+#myVideo {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
